@@ -1,0 +1,111 @@
+.edit {
+    display: flex;
+}
+
+#canvas {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    background: var(--canvas-background);
+    width: 100%;
+    height: calc(100vh - 50px);
+    overflow: scroll;
+}
+
+
+/**
+TODO Make positioning relative (or absolute)
+ */
+#canvas > ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    align-items: center;
+    width: 100%;
+}
+
+#canvas > ul > li {
+    justify-content: center;
+    position: relative;
+}
+
+.note {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin: 20px;
+    padding: 10px;
+    background: #ebebeb;
+    border-radius: 10px;
+    justify-self: center;
+    box-shadow: var(--note-shadow);
+}
+
+.note-title {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+    font-family: 'arial';
+    margin: 2px;
+    padding: 10px;
+}
+
+.note-content {
+    font-size: 1rem;
+    margin: 5px;
+    padding: 2px;
+}
+
+#btn-add-note {
+    font-size: 2.5rem;
+    padding: 7px;
+    background: var(--button-background-note);
+    border: 0px;
+    width: 300px;
+    align-self: center;
+    cursor: pointer;
+    border-radius: 7px;
+    box-shadow: var(--button-shadow);
+    transition: all .2s;
+}
+
+#btn-add-note:hover {
+    border: var(--button-border-section-hover);
+    border-radius: 30px;
+    transition: all .2s;
+}
+
+button.note-edit {
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+    padding: 5px;
+    background-image: url("./../assets/edit-icon.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    font-size: 1.5rem;
+    border: 0px;
+    border-radius: 10px;
+    box-shadow: var(--button-shadow);
+    cursor: pointer;
+}
+
+.view-mode {
+    padding: 10px;
+}
+
+.edit-mode {
+    padding: 10px;
+    font-family: monospace;
+    font-size: 1em;
+}
+
+textarea.note-editor {
+    padding: 10px;
+    font-family: 'monospace';
+    display: none;
+    border: solid 1px #cccc;
+    width: calc(100% - 40px);
+    align-self: center;
+}

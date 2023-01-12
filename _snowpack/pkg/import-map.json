@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "jquery": "./jquery.js",
+    "marked": "./marked.js",
+    "showdown": "./showdown.js"
+  }
+}

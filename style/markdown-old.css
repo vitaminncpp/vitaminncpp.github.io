@@ -1,0 +1,253 @@
+:root {
+    --bf-font: Roboto, sans-serif;
+    --bf-primary: #1976D2;
+    --bf-text: rgba(0, 0, 0, 0.87);
+    --bf-line: rgba(0, 0, 0, 0.12);
+    --bf-fill: rgba(0, 0, 0, 0.04);
+    --bf-radius: 4px;
+    --bf-card-width: 300px;
+    --bf-image-height: 200px;
+}
+
+html {
+    font-family: var(--bf-font);
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    color: var(--bf-text);
+    font-size: 16px;
+    line-height: 1.6;
+    border-spacing: 10px;
+}
+
+.markdown img {
+    border: 0 none;
+    max-width: 100%;
+    border-radius: var(--bf-radius);
+    vertical-align: middle;
+    margin: 2px 0;
+}
+
+.markdown em {
+    font-style: italic
+}
+
+.markdown strong {
+    font-weight: 500
+}
+
+.markdown h1 {
+    font-size: calc(2.0rem + 2.5vw);
+    margin: 2rem 0.75rem 1.25rem 0.75rem;
+}
+
+.markdown h2 {
+    font-size: calc(1.4rem + 1.4vw);
+    margin: 1.5rem 0.75rem 1rem 0.75rem;
+}
+
+.markdown h3 {
+    font-size: calc(1.2rem + 1vw);
+    margin: 1.25rem 0.75rem 0.75rem 0.75rem;
+}
+
+.markdown h4 {
+    font-size: calc(1.1rem + 0.6vw);
+    margin: 1rem 0.75rem 0.5rem 0.75rem;
+}
+
+.markdown h5 {
+    font-size: calc(1rem + 0.2vw);
+    margin: 0.75rem 0.75rem 0.25rem 0.75rem;
+}
+
+.markdown h6 {
+    font-size: calc(1rem);
+    margin: 0.25rem 0 0 0;
+}
+
+.markdown p {
+    margin: 0.75rem;
+}
+
+.markdown p,
+.markdown a {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.markdown a {
+    text-decoration: none;
+    color: var(--bf-primary);
+}
+
+.markdown a:active,
+.markdown a:hover {
+    outline: 0;
+}
+
+.markdown a:active,
+.markdown a:focus,
+.markdown a:hover {
+    text-decoration: underline;
+}
+
+.markdown ul,
+.markdown ol {
+    padding: 0 2em;
+}
+
+.markdown ul {
+    list-style-type: disc;
+}
+
+.markdown strong {
+    font-weight: inherit;
+}
+
+.markdown code,
+.markdown pre {
+    font-family: monospace;
+    font-size: 90%;
+    background-color: var(--bf-fill);
+}
+
+.markdown code {
+    padding: 0.2em 0;
+    margin: 0;
+}
+
+.markdown pre {
+    margin: 0.75rem;
+    padding: 0.75rem;
+    overflow: auto;
+}
+
+.markdown pre code {
+    background: transparent;
+}
+
+.markdown pre code::before,
+.markdown pre code::after {
+    content: normal;
+}
+
+.markdown code::before,
+.markdown code::after {
+    content: '\00a0';
+}
+
+.markdown a > em,
+.markdown a > strong {
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.09em;
+    line-height: 2.25rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    padding: 0 8px;
+    margin: 4px;
+    min-width: 64px;
+    height: 36px;
+    border-radius: var(--bf-radius);
+    transition: all .3s;
+}
+
+.markdown a > em {
+    background-color: transparent;
+    color: var(--bf-primary);
+}
+
+.markdown a > strong {
+    background-color: var(--bf-primary);
+    color: #fff;
+}
+
+.markdown a > em:hover {
+    box-shadow: inset 0 0 0 99em rgba(0, 0, 0, .06);
+}
+
+.markdown a > strong:hover {
+    box-shadow: inset 0 0 0 99em rgba(255, 255, 255, .24);
+}
+
+.markdown blockquote {
+    margin: 0.75rem;
+    border: 0;
+    border-radius: var(--bf-radius);
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.markdown blockquote > p:not(:only-child),
+.markdown blockquote > h5,
+.markdown blockquote > h6 {
+    width: var(--bf-card-width);
+}
+
+.markdown blockquote > p:only-child > a {
+    display: block;
+}
+
+.markdown blockquote > p:only-child > a > em {
+    text-align: left;
+}
+
+.markdown blockquote img {
+    max-height: var(--bf-image-height);
+    cursor: pointer;
+}
+
+.markdown .markdown blockquote img:active {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 95%;
+    max-height: 95%;
+    border: 100vh solid #fff;
+}
+
+.markdown .markdown hr {
+    height: 1px;
+    background-color: var(--bf-line);
+    border: none;
+    margin: 0;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .12);
+}
+
+.markdown table {
+    margin: 0.75rem;
+    border-spacing: 0;
+    border-radius: var(--bf-radius);
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
+    display: inline-block;
+}
+
+.markdown table th {
+    font-weight: bold;
+}
+
+.markdown table td {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: var(--bf-line);
+}
+
+.markdown table th,
+.markdown table td {
+    text-align: left;
+    padding: 0.9rem 1.25rem;
+}
+
+.markdown table > tbody > tr:hover {
+    background-color: var(--bf-fill);
+}

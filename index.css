@@ -1,0 +1,237 @@
+:root {
+    --section-background: #a1bca8;
+    --section-hover: rgba(0, 0, 0, 0.23);
+
+    --chapter-background: #9be3ed;
+    --chapter-hover: rgba(0, 0, 0, 0.16);
+
+    --canvas-background: #d7d7d7;
+
+    --general-shadow: #6d6d6d 0px 0px 10px;
+    --button-background-section: #8acec2;
+    --button-background-chapter: #afcac8;
+
+    --button-border-section-hover: solid 1px #222222;
+    --button-border-chapter-hover: solid 1px #222222;
+
+    --button-shadow: #6d6d6d 0px 0px 5px;
+
+    --note-shadow: #6d6d6d77 0px 0px 5px;
+
+    --button-background-note: rgb(163, 209, 170);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background: #cccc;
+}
+
+
+.content {
+    display: flex;
+    width: 100vw;
+    height: calc(100vh - 50px);
+}
+
+.notebook {
+    display: flex;
+    width: calc(100vw - 50px);
+    font-family: 'arial';
+}
+
+.section-list {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background: var(--section-background);
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.section-list ul {
+    width: 100%;
+}
+
+.section-list li {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 2px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border-bottom: solid 1px var(--chapter-background);
+}
+
+.section-list li:hover {
+    background: var(--section-hover);
+}
+
+#btn-add-section {
+    font-size: 2.5em;
+    padding: 7px;
+    background: var(--button-background-section);
+    border: 0px;
+    width: 200px;
+    align-self: center;
+    cursor: pointer;
+    border-radius: 7px;
+    box-shadow: var(--button-shadow);
+    transition: all .2s;
+}
+
+#btn-add-section:hover {
+    border: var(--button-border-section-hover);
+    border-radius: 30px;
+    transition: all .2s;
+}
+
+.section {
+    display: flex;
+}
+
+.chapter-list {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: auto;
+    background: var(--chapter-background);
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.chapter-list ul {
+    width: 100%;
+}
+
+.chapter-list li {
+    width: 100%;
+    padding: 18px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+    cursor: pointer;
+    border-bottom: solid 1px var(--canvas-background);
+}
+
+.chapter-list li:hover {
+    background: var(--chapter-hover);
+}
+
+#btn-add-chapter {
+    font-size: 2.5em;
+    padding: 7px;
+    background: var(--button-background-chapter);
+    border: 0px;
+    width: 150px;
+    align-self: center;
+    cursor: pointer;
+    border-radius: 7px;
+    box-shadow: var(--button-shadow);
+    transition: all .2s;
+}
+
+#btn-add-chapter:hover {
+    border: var(--button-border-chapter-hover);
+    border-radius: 30px;
+    transition: all .2s;
+}
+
+.chapter {
+    display: flex;
+    position: relative;
+    width: calc(100vw - 550px);
+    height: auto;
+}
+
+
+.action-bar {
+    display: flex;
+    width: 50px;
+    height: auto;
+}
+
+.markdown-preview {
+    background: rgba(34, 34, 34, 0.19);
+}
+
+.markdown-preview blockquote {
+    font-size: 1.4em;
+    width: 60%;
+    margin: 50px auto;
+    font-style: italic;
+    color: #555555;
+    padding: 1.2em 30px 1.2em 75px;
+    border-left: 8px solid #78C0A8;
+    line-height: 1.6;
+    position: relative;
+    background: #EDEDED;
+}
+
+.markdown-preview blockquote::before {
+
+    content: "\201C";
+    color: #78C0A8;
+    font-size: 4em;
+    position: absolute;
+    left: 10px;
+    top: -10px;
+}
+
+.markdown-preview blockquote::after {
+    content: '';
+}
+
+.markdown-preview blockquote span {
+    display: block;
+    color: #333333;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+.active-section {
+    background: var(--chapter-background);
+    box-shadow: var(--button-shadow);
+}
+
+.section-list li.active-section:hover {
+    background: var(--chapter-background);
+}
+
+.active-chapter {
+    background: var(--canvas-background);
+    box-shadow: var(--button-shadow);
+}
+
+.chapter-list li.active-chapter {
+    background: var(--canvas-background);
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+
+::-webkit-scrollbar-track {
+    background: #0000;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: #0000;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #0000;
+}
