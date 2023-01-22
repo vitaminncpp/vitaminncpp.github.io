@@ -1,0 +1,6 @@
+<map id="simulation::gfx::SDL_Context::FillRect" name="simulation::gfx::SDL_Context::FillRect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,144,103"/>
+<area shape="rect" id="node2" href="$classinterface_1_1gfx_1_1_renderer.html#ae3e5382306e729849fbd294349e6dd6b" title=" " alt="" coords="192,5,348,45"/>
+<area shape="rect" id="node3" href="$classlib_1_1math_1_1_vec2.html#a10a396a5f0af3a434307ab9c47f675d2" title=" " alt="" coords="197,70,343,95"/>
+<area shape="rect" id="node4" href="$classlib_1_1math_1_1_vec2.html#a433677f68bdfb59c57457bdd301eb929" title=" " alt="" coords="196,119,344,145"/>
+</map>

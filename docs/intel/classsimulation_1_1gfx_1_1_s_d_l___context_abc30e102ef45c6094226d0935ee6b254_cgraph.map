@@ -1,0 +1,11 @@
+<map id="simulation::gfx::SDL_Context::BeginFrame" name="simulation::gfx::SDL_Context::BeginFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="5,133,157,173"/>
+<area shape="rect" id="node2" href="$classinterface_1_1gfx_1_1_renderer.html#a7930de5ebe07c0e719c252317854a308" title=" " alt="" coords="205,101,361,141"/>
+<area shape="rect" id="node3" href="$classsimulation_1_1gfx_1_1_s_d_l___context.html#add4f8a306aded0ae8bc99ff8cdc7f933" title=" " alt="" coords="214,165,353,205"/>
+<area shape="rect" id="node4" href="$classinterface_1_1gfx_1_1_color.html#ac6067ff17cebe2bddfd1a23483caf48f" title=" " alt="" coords="435,5,570,45"/>
+<area shape="rect" id="node5" href="$classinterface_1_1gfx_1_1_color.html#a965b3c138c1cd761eb2409ff035fddc7" title=" " alt="" coords="435,69,570,109"/>
+<area shape="rect" id="node6" href="$classinterface_1_1gfx_1_1_color.html#ae1327f90fc0c524e8a4cfdbc2472df9b" title=" " alt="" coords="435,133,570,173"/>
+<area shape="rect" id="node7" href="$classinterface_1_1gfx_1_1_color.html#ac7e78e43b275855a77a6347536f43ab2" title=" " alt="" coords="435,197,570,237"/>
+<area shape="rect" id="node8" href="$classsimulation_1_1gfx_1_1_s_d_l___context.html#a30068b3876fe55cc7c9c69cdc25ed3e8" title=" " alt="" coords="409,261,596,301"/>
+<area shape="rect" id="node9" href="$classinterface_1_1gfx_1_1_renderer.html#a28099bd6b5fa2076f32204f8e521c473" title=" " alt="" coords="425,325,581,365"/>
+</map>

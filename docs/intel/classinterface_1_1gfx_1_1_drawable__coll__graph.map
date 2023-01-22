@@ -1,0 +1,6 @@
+<map id="interface::gfx::Drawable" name="interface::gfx::Drawable">
+<area shape="rect" id="node1" title=" " alt="" coords="27,229,185,255"/>
+<area shape="rect" id="node2" href="$classinterface_1_1gfx_1_1_renderer.html" title=" " alt="" coords="132,139,288,165"/>
+<area shape="rect" id="node3" href="$classlib_1_1math_1_1_vec2.html" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node4" href="$classinterface_1_1gfx_1_1_color.html" title=" " alt="" coords="143,5,277,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="core::Simulation::Render" name="core::Simulation::Render">
+<area shape="rect" id="node1" title=" " alt="" coords="5,181,171,206"/>
+<area shape="rect" id="node2" href="$classcore_1_1_simulation.html#a381414aea0773b270faee6f2bfe05e5a" title=" " alt="" coords="230,119,407,145"/>
+<area shape="rect" id="node7" href="$classcore_1_1components_1_1_component.html#ae9483b60ac42c1f00deb137c55f1b888" title=" " alt="" coords="219,233,419,273"/>
+<area shape="rect" id="node3" href="$classinterface_1_1gfx_1_1_renderer.html#ae3e5382306e729849fbd294349e6dd6b" title=" " alt="" coords="467,5,623,45"/>
+<area shape="rect" id="node4" href="$classcore_1_1util_1_1_state.html#a16ce989c78d38e44bbbdd61d86a0acde" title=" " alt="" coords="471,70,618,95"/>
+<area shape="rect" id="node5" href="$classcore_1_1util_1_1_state.html#a6cdd98894fc0bb654b1f14a74378f6bd" title=" " alt="" coords="470,119,619,145"/>
+<area shape="rect" id="node6" href="$classinterface_1_1gfx_1_1_renderer.html#a28099bd6b5fa2076f32204f8e521c473" title=" " alt="" coords="467,169,623,209"/>
+<area shape="rect" id="node8" href="$classinterface_1_1gfx_1_1_renderer.html#af8993afc0c79c8062d98404e9ebe5302" title=" " alt="" coords="467,233,623,273"/>
+<area shape="rect" id="node10" href="$classinterface_1_1gfx_1_1_renderer.html#add2ccfa1d2246a4274e393e78f8ee56c" title=" " alt="" coords="467,297,623,337"/>
+<area shape="rect" id="node9" href="$classinterface_1_1gfx_1_1_image.html#adde66307aa8febb6da5af583d750f316" title=" " alt="" coords="671,233,809,273"/>
+</map>

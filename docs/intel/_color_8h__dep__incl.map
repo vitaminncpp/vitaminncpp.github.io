@@ -1,0 +1,44 @@
+<map id="D:/Projects/cpp/ie/src/interface/gfx/Color.h" name="D:/Projects/cpp/ie/src/interface/gfx/Color.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1652,5,1815,45"/>
+<area shape="rect" id="node2" href="$_renderer_8h.html" title=" " alt="" coords="1641,93,1826,133"/>
+<area shape="rect" id="node3" href="$_resource_8h.html" title=" " alt="" coords="1474,497,1617,537"/>
+<area shape="rect" id="node12" href="$_game_loop_8h.html" title=" " alt="" coords="1641,489,1775,544"/>
+<area shape="rect" id="node14" href="$_drawable_8h.html" title=" " alt="" coords="1065,189,1252,229"/>
+<area shape="rect" id="node32" href="$_renderer_8cpp.html" title=" " alt="" coords="1634,189,1833,229"/>
+<area shape="rect" id="node33" href="$_window_8h.html" title=" " alt="" coords="1799,387,1942,441"/>
+<area shape="rect" id="node37" href="$_s_d_l___context_8h.html" title=" " alt="" coords="2144,387,2272,441"/>
+<area shape="rect" id="node41" href="$_s_d_l___svg_8h.html" title=" " alt="" coords="1959,181,2087,236"/>
+<area shape="rect" id="node4" href="$_resource_8cpp.html" title=" " alt="" coords="1480,599,1637,639"/>
+<area shape="rect" id="node5" href="$_simulation_8h.html" title=" " alt="" coords="1133,599,1283,639"/>
+<area shape="rect" id="node10" href="$_s_d_l___resource_8h.html" title=" " alt="" coords="1712,592,1848,647"/>
+<area shape="rect" id="node6" href="$_simulation_8cpp.html" title=" " alt="" coords="1127,702,1289,742"/>
+<area shape="rect" id="node7" href="$_game_8h.html" title=" " alt="" coords="1609,702,1740,742"/>
+<area shape="rect" id="node8" href="$_game_8cpp.html" title=" " alt="" coords="1603,797,1747,837"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title=" " alt="" coords="1976,797,2109,837"/>
+<area shape="rect" id="node11" href="$_s_d_l___resource_8cpp.html" title=" " alt="" coords="1764,695,1903,749"/>
+<area shape="rect" id="node13" href="$_game_loop_8cpp.html" title=" " alt="" coords="1872,592,2005,647"/>
+<area shape="rect" id="node15" href="$_component_8h.html" title=" " alt="" coords="637,284,785,339"/>
+<area shape="rect" id="node31" href="$_drawable_8cpp.html" title=" " alt="" coords="1059,291,1259,331"/>
+<area shape="rect" id="node16" href="$_c_l_k_digital_8h.html" title=" " alt="" coords="219,489,367,544"/>
+<area shape="rect" id="node18" href="$_component_8cpp.html" title=" " alt="" coords="525,387,673,441"/>
+<area shape="rect" id="node19" href="$_n_o_t_8h.html" title=" " alt="" coords="392,497,581,537"/>
+<area shape="rect" id="node21" href="$_o_r_8h.html" title=" " alt="" coords="606,497,789,537"/>
+<area shape="rect" id="node23" href="$_wire_8h.html" title=" " alt="" coords="749,387,897,441"/>
+<area shape="rect" id="node27" href="$_x_n_o_r_8h.html" title=" " alt="" coords="1302,489,1450,544"/>
+<area shape="rect" id="node29" href="$_x_o_r_8h.html" title=" " alt="" coords="5,497,195,537"/>
+<area shape="rect" id="node17" href="$_c_l_k_digital_8cpp.html" title=" " alt="" coords="219,592,367,647"/>
+<area shape="rect" id="node20" href="$_n_o_t_8cpp.html" title=" " alt="" coords="413,592,561,647"/>
+<area shape="rect" id="node22" href="$_o_r_8cpp.html" title=" " alt="" coords="623,592,771,647"/>
+<area shape="rect" id="node24" href="$_a_n_d_8h.html" title=" " alt="" coords="985,497,1175,537"/>
+<area shape="rect" id="node26" href="$_wire_8cpp.html" title=" " alt="" coords="813,489,961,544"/>
+<area shape="rect" id="node25" href="$_a_n_d_8cpp.html" title=" " alt="" coords="961,592,1109,647"/>
+<area shape="rect" id="node28" href="$_x_n_o_r_8cpp.html" title=" " alt="" coords="1307,592,1455,647"/>
+<area shape="rect" id="node30" href="$_x_o_r_8cpp.html" title=" " alt="" coords="26,592,174,647"/>
+<area shape="rect" id="node34" href="$_window_8cpp.html" title=" " alt="" coords="1799,489,1942,544"/>
+<area shape="rect" id="node35" href="$_game_window_8h.html" title=" " alt="" coords="1966,489,2119,544"/>
+<area shape="rect" id="node36" href="$_game_window_8cpp.html" title=" " alt="" coords="2081,592,2234,647"/>
+<area shape="rect" id="node38" href="$_s_d_l___context_8cpp.html" title=" " alt="" coords="2320,489,2448,544"/>
+<area shape="rect" id="node39" href="$_s_d_l___image_8h.html" title=" " alt="" coords="2144,489,2272,544"/>
+<area shape="rect" id="node40" href="$_s_d_l___image_8cpp.html" title=" " alt="" coords="2259,592,2387,647"/>
+<area shape="rect" id="node42" href="$_s_d_l___svg_8cpp.html" title=" " alt="" coords="1959,284,2087,339"/>
+</map>

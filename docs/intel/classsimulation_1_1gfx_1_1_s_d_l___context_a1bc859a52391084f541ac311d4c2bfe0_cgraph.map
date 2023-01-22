@@ -1,0 +1,8 @@
+<map id="simulation::gfx::SDL_Context::DrawImage" name="simulation::gfx::SDL_Context::DrawImage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,152,139"/>
+<area shape="rect" id="node2" href="$classinterface_1_1gfx_1_1_renderer.html#af8993afc0c79c8062d98404e9ebe5302" title=" " alt="" coords="200,5,356,45"/>
+<area shape="rect" id="node4" href="$classinterface_1_1gfx_1_1_image.html#ad63c1b6d147e669d005f84af74c80b1d" title=" " alt="" coords="209,69,347,109"/>
+<area shape="rect" id="node5" href="$classlib_1_1math_1_1_vec2.html#a10a396a5f0af3a434307ab9c47f675d2" title=" " alt="" coords="205,134,351,159"/>
+<area shape="rect" id="node6" href="$classlib_1_1math_1_1_vec2.html#a433677f68bdfb59c57457bdd301eb929" title=" " alt="" coords="204,183,352,209"/>
+<area shape="rect" id="node3" href="$classinterface_1_1gfx_1_1_image.html#adde66307aa8febb6da5af583d750f316" title=" " alt="" coords="404,5,543,45"/>
+</map>

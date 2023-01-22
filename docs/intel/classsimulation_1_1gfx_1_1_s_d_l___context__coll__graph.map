@@ -1,0 +1,6 @@
+<map id="simulation::gfx::SDL_Context" name="simulation::gfx::SDL_Context">
+<area shape="rect" id="node1" title=" " alt="" coords="65,212,203,252"/>
+<area shape="rect" id="node2" href="$classinterface_1_1gfx_1_1_renderer.html" title=" " alt="" coords="56,137,212,163"/>
+<area shape="rect" id="node3" href="$classlib_1_1math_1_1_vec2.html" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node4" href="$classinterface_1_1gfx_1_1_color.html" title=" " alt="" coords="140,5,275,31"/>
+</map>

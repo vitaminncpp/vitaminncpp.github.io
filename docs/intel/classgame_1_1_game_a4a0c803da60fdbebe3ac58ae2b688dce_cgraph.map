@@ -1,0 +1,12 @@
+<map id="game::Game::SendEvent" name="game::Game::SendEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,211,172,236"/>
+<area shape="rect" id="node2" href="$classlib_1_1math_1_1_vec2.html#af7ee42f9235e8c03f9904ed84935f8b7" title=" " alt="" coords="225,5,371,31"/>
+<area shape="rect" id="node3" href="$classgame_1_1_state.html#a6da86ce9feb146a84b22c3f0e00227c5" title=" " alt="" coords="221,55,375,80"/>
+<area shape="rect" id="node4" href="$classlib_1_1math_1_1_vec2.html#a10a396a5f0af3a434307ab9c47f675d2" title=" " alt="" coords="225,104,371,129"/>
+<area shape="rect" id="node5" href="$classlib_1_1math_1_1_vec2.html#a433677f68bdfb59c57457bdd301eb929" title=" " alt="" coords="224,153,372,179"/>
+<area shape="rect" id="node6" href="$classinterface_1_1gfx_1_1_renderer.html#ae3eef51212535c571f3e9961cbd996fa" title=" " alt="" coords="220,203,376,243"/>
+<area shape="rect" id="node7" href="$classinterface_1_1gfx_1_1_renderer.html#a68a3df04c772507d59f0d4b037345235" title=" " alt="" coords="220,267,376,307"/>
+<area shape="rect" id="node8" href="$classgame_1_1_state.html#a106cee0169ce230ba31262db2ce36886" title=" " alt="" coords="222,332,374,357"/>
+<area shape="rect" id="node9" href="$classlib_1_1math_1_1_vec2.html#a6bea111b936b262fec8d4ec12784ed24" title=" " alt="" coords="221,381,375,407"/>
+<area shape="rect" id="node10" href="$classinterface_1_1gfx_1_1_renderer.html#a1f949930843e753a0de3a21f160fec7c" title=" " alt="" coords="220,431,376,471"/>
+</map>
