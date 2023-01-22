@@ -1,0 +1,10 @@
+<map id="com.akshayaap.chess.gui.Promotion.prompt" name="com.akshayaap.chess.gui.Promotion.prompt">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,184,141"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#aebb2072c1f9a1a045b5ad5dffe099217" title=" " alt="" coords="263,5,456,45"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1util_1_1_resource_manager.html#a1c3479db15812bca165ab4ae23d8174f" title=" " alt="" coords="232,69,487,109"/>
+<area shape="rect" id="node4" href="$classcom_1_1akshayaap_1_1chess_1_1util_1_1_resource_manager.html#a4016e0d6944e3958679cbe0baad2e8f1" title=" " alt="" coords="263,133,456,173"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a36725ace19c8c288875adfcec57d4489" title=" " alt="" coords="263,197,456,237"/>
+<area shape="rect" id="node6" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_pawn.html#acba8119d853104aa85a274f3832aa03b" title=" " alt="" coords="535,197,728,237"/>
+<area shape="rect" id="node7" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#a57557ba4a3509e6c96a3524cecad3f5d" title=" " alt="" coords="776,165,969,205"/>
+<area shape="rect" id="node8" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#adcd136a5bca543305e2ff99d190f2e41" title=" " alt="" coords="776,229,969,269"/>
+</map>

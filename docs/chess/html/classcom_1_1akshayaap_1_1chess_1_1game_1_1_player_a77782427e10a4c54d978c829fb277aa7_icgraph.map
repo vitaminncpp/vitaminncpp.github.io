@@ -1,0 +1,10 @@
+<map id="com.akshayaap.chess.game.Player.getOpponent" name="com.akshayaap.chess.game.Player.getOpponent">
+<area shape="rect" id="node1" title=" " alt="" coords="488,165,681,205"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#a6b26b013a45f19b79734b1a74ff3a451" title=" " alt="" coords="247,165,440,205"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_bishop.html#ad079c602e0514077036a9ebbe5de6a44" title=" " alt="" coords="5,5,199,45"/>
+<area shape="rect" id="node4" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_king.html#a788dea77894f054ed3902e2cdac3c563" title=" " alt="" coords="5,69,199,109"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_knight.html#a002cba335132db2d63ba158977425569" title=" " alt="" coords="5,133,199,173"/>
+<area shape="rect" id="node6" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_pawn.html#a7aa80f702f0a992d84b9fb36ca04bc8f" title=" " alt="" coords="5,197,199,237"/>
+<area shape="rect" id="node7" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_queen.html#a1be9abac7c674e87d72c8acb8be960c4" title=" " alt="" coords="5,261,199,301"/>
+<area shape="rect" id="node8" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_rook.html#a1c9c82088ec62999ec0e4c996efd47ea" title=" " alt="" coords="5,325,199,365"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="com.akshayaap.chess.gui.ChessGui.reset" name="com.akshayaap.chess.gui.ChessGui.reset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,301,184,341"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1gui_1_1_chess_gui.html#a27ea3107bc66e269cb2f7d8cff097be4" title=" " alt="" coords="239,187,418,227"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_game.html#a42098af32f144cbe0f6ed40364b99a3c" title=" " alt="" coords="232,301,425,341"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_move.html#aa7a59ca9e945f27216ddc354fcf8fcd4" title=" " alt="" coords="484,85,677,125"/>
+<area shape="rect" id="node23" href="$classcom_1_1akshayaap_1_1chess_1_1gui_1_1_state.html#a43880ca600d7fdce8e82168f1efe2515" title=" " alt="" coords="239,365,418,405"/>
+<area shape="rect" id="node24" href="$classcom_1_1akshayaap_1_1chess_1_1gui_1_1_state.html#ad92eabe1415a9bc598d3bad6cd929489" title=" " alt="" coords="239,429,418,469"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1akshayaap_1_1chess_1_1game_1_1util_1_1_logable.html#a171f7f602b21664a1851ca0410f08e29" title=" " alt="" coords="473,237,688,277"/>
+<area shape="rect" id="node6" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a7ad839cf66697f90dbc577e9e17d44a4" title=" " alt="" coords="484,301,677,341"/>
+<area shape="rect" id="node14" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_state.html#a201e08a4eb7943350e4bd6b14940cbaa" title=" " alt="" coords="484,365,677,405"/>
+<area shape="rect" id="node15" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_board.html#aa699c2d6353edcf776c7d4a59962d467" title=" " alt="" coords="484,581,677,621"/>
+<area shape="rect" id="node16" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_state.html#a6c96064f7632f1e43d5314d743f5ccce" title=" " alt="" coords="484,517,677,557"/>
+<area shape="rect" id="node17" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a4a8386eb13d3ab1406a9c7ad65b1a4db" title=" " alt="" coords="484,453,677,493"/>
+<area shape="rect" id="node18" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#ae8f9dd9f5afca57e942ffbd90235c09f" title=" " alt="" coords="484,173,677,213"/>
+<area shape="rect" id="node7" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#a9f6c4da470456f37efc15ce8094bf724" title=" " alt="" coords="736,389,929,429"/>
+<area shape="rect" id="node9" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#a1cb0b5cb5f9d433352dc6bd312fa7a82" title=" " alt="" coords="736,325,929,365"/>
+<area shape="rect" id="node12" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a1a412bdbd44f38c28426a3dac226546b" title=" " alt="" coords="736,453,929,493"/>
+<area shape="rect" id="node13" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a8c5f2f8d8bfb5549a02676e53d543857" title=" " alt="" coords="736,261,929,301"/>
+<area shape="rect" id="node8" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_tile.html#a04c4b7f83a9fab43f0a22389dbcde064" title=" " alt="" coords="977,449,1171,489"/>
+<area shape="rect" id="node10" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#a57557ba4a3509e6c96a3524cecad3f5d" title=" " alt="" coords="977,357,1171,397"/>
+<area shape="rect" id="node11" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#adcd136a5bca543305e2ff99d190f2e41" title=" " alt="" coords="977,293,1171,333"/>
+<area shape="rect" id="node19" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#ad14a294f914755893d4a3758762a00bf" title=" " alt="" coords="736,69,929,109"/>
+<area shape="rect" id="node20" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a60f5f405b8eed0f37c489397b703fe8c" title=" " alt="" coords="736,133,929,173"/>
+<area shape="rect" id="node21" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#aac9fe637164fa576d6c5eb791cc5c874" title=" " alt="" coords="736,197,929,237"/>
+<area shape="rect" id="node22" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a5db2f0bf4ad06d5c17ea6dfac6a10c7b" title=" " alt="" coords="736,5,929,45"/>
+</map>

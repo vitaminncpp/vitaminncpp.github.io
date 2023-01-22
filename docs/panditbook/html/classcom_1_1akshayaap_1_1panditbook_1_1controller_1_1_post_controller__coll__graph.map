@@ -1,0 +1,8 @@
+<map id="com.akshayaap.panditbook.controller.PostController" name="com.akshayaap.panditbook.controller.PostController">
+<area shape="rect" id="node1" title=" " alt="" coords="931,31,1173,71"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1panditbook_1_1service_1_1_post_service.html" title=" " alt="" coords="608,65,837,105"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1akshayaap_1_1panditbook_1_1repository_1_1_post_repository.html" title=" " alt="" coords="221,5,468,45"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,172,45"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1akshayaap_1_1panditbook_1_1repository_1_1_user_repository.html" title=" " alt="" coords="221,77,468,117"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,77,172,117"/>
+</map>

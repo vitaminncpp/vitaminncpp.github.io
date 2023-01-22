@@ -1,0 +1,7 @@
+<map id="com.akshayaap.chess.game.Pawn.moveTo" name="com.akshayaap.chess.game.Pawn.moveTo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,199,141"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a7cb5906e3b073800e667b4a2ea388cac" title=" " alt="" coords="257,5,451,45"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1akshayaap_1_1chess_1_1game_1_1util_1_1_promotion_callback.html#aa48df9e1591b5acb321084b9fadceb62" title=" " alt="" coords="247,69,461,109"/>
+<area shape="rect" id="node4" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#adbbf37fb88138602bf10b9dfb393a527" title=" " alt="" coords="257,133,451,173"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_move.html#acea51955bd956343309b44ff8b5012b3" title=" " alt="" coords="257,197,451,237"/>
+</map>

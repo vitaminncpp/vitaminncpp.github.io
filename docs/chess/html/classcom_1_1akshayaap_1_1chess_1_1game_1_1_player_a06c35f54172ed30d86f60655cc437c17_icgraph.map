@@ -1,0 +1,5 @@
+<map id="com.akshayaap.chess.game.Player.getThreatMap" name="com.akshayaap.chess.game.Player.getThreatMap">
+<area shape="rect" id="node1" title=" " alt="" coords="488,35,681,75"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_king.html#a2de208a1905368ec9e1a3124ebfca4ae" title=" " alt="" coords="247,5,440,45"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_king.html#a788dea77894f054ed3902e2cdac3c563" title=" " alt="" coords="5,35,199,75"/>
+</map>

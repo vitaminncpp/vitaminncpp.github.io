@@ -1,0 +1,14 @@
+<map id="com.akshayaap.chess.game.ChessGame.ChessGame" name="com.akshayaap.chess.game.ChessGame.ChessGame">
+<area shape="rect" id="node1" title=" " alt="" coords="5,113,199,153"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_board.html#a985a46ea67b060c2dad0a9a1af7c77e2" title=" " alt="" coords="247,5,440,45"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#afe6aef861fc8cfad90762c2c33d1d9b9" title=" " alt="" coords="247,69,440,109"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a4a8386eb13d3ab1406a9c7ad65b1a4db" title=" " alt="" coords="247,157,440,197"/>
+<area shape="rect" id="node7" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#ae8f9dd9f5afca57e942ffbd90235c09f" title=" " alt="" coords="247,305,440,345"/>
+<area shape="rect" id="node4" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#aad9bb8d8087e48d35185a9fbfa464bb2" title=" " alt="" coords="488,69,681,109"/>
+<area shape="rect" id="node6" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a1a412bdbd44f38c28426a3dac226546b" title=" " alt="" coords="488,145,681,185"/>
+<area shape="rect" id="node8" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_piece.html#ad14a294f914755893d4a3758762a00bf" title=" " alt="" coords="488,209,681,249"/>
+<area shape="rect" id="node9" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a8c5f2f8d8bfb5549a02676e53d543857" title=" " alt="" coords="488,273,681,313"/>
+<area shape="rect" id="node10" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a60f5f405b8eed0f37c489397b703fe8c" title=" " alt="" coords="488,337,681,377"/>
+<area shape="rect" id="node11" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#aac9fe637164fa576d6c5eb791cc5c874" title=" " alt="" coords="488,401,681,441"/>
+<area shape="rect" id="node12" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_player.html#a5db2f0bf4ad06d5c17ea6dfac6a10c7b" title=" " alt="" coords="488,465,681,505"/>
+</map>

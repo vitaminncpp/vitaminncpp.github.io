@@ -1,0 +1,9 @@
+<map id="com.akshayaap.chess.game.Piece" name="com.akshayaap.chess.game.Piece">
+<area shape="rect" id="node1" title=" " alt="" coords="5,149,199,189"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_bishop.html" title=" " alt="" coords="263,5,456,45"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_king.html" title=" " alt="" coords="250,70,469,95"/>
+<area shape="rect" id="node4" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_knight.html" title=" " alt="" coords="263,120,456,160"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_pawn.html" title=" " alt="" coords="247,185,472,210"/>
+<area shape="rect" id="node6" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_queen.html" title=" " alt="" coords="263,235,456,275"/>
+<area shape="rect" id="node7" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_rook.html" title=" " alt="" coords="248,299,471,325"/>
+</map>

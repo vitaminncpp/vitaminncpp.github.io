@@ -1,0 +1,5 @@
+<map id="com.akshayaap.chess.game.ChessGame.getPiece" name="com.akshayaap.chess.game.ChessGame.getPiece">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,199,45"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_board.html#a757bae6cba833235fe58b77b60fc19dd" title=" " alt="" coords="247,5,440,45"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_tile.html#a57b6b09db65bfb8b6937723dc97e5184" title=" " alt="" coords="488,5,681,45"/>
+</map>

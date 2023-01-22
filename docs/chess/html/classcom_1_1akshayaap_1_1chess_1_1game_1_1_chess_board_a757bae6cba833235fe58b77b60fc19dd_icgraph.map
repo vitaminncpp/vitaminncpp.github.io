@@ -1,0 +1,9 @@
+<map id="com.akshayaap.chess.game.ChessBoard.getPiece" name="com.akshayaap.chess.game.ChessBoard.getPiece">
+<area shape="rect" id="node1" title=" " alt="" coords="488,63,681,103"/>
+<area shape="rect" id="node2" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_game.html#a0050fa01d9f60b4e6ee4551892eeb757" title=" " alt="" coords="247,5,440,45"/>
+<area shape="rect" id="node3" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_board.html#a534f275a5f5322d7f01eb8d3cdb44c91" title=" " alt="" coords="247,123,440,163"/>
+<area shape="rect" id="node5" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_game.html#ae9ac44a86a094dbd177572f6f921bbcd" title=" " alt="" coords="5,59,199,99"/>
+<area shape="rect" id="node4" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_game.html#a43277a18fdca20d03618ee1a6c69c89a" title=" " alt="" coords="5,123,199,163"/>
+<area shape="rect" id="node6" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_game.html#aa629b678694ad5fa0ce27fc2b2a1fdda" title=" " alt="" coords="5,187,199,227"/>
+<area shape="rect" id="node7" href="$classcom_1_1akshayaap_1_1chess_1_1game_1_1_chess_game.html#abc53219ec44b1194a86a9c801cf535d2" title=" " alt="" coords="5,251,199,291"/>
+</map>
